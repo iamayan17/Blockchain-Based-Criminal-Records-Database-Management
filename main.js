@@ -55,28 +55,3 @@
 $(".size").on('click', function(){
     $(this).toggleClass('focus').siblings().removeClass('focus');
  })
-
-
-
- 
-// function login() {
-//     var name=document.myform.username.value;
-//     var user=document.myform.password.value;
-    
-
-//     if(name==""){
-//         alert("Enter the User name");
-//         return false;
-
-//     }
-    
-//     if(user==""){
-//         alert("Enter the Password");
-//         return false;
-
-//     }
-
-
-    
-    
-// }
